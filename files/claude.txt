@@ -1,3 +1,5 @@
 claude.com
 claude.ai
 d3e54v103j8qbb.cloudfront.net
+cdn.prod.website-files.com
+unpkg.com
